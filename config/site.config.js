@@ -14,10 +14,10 @@ module.exports = {
   icon: 'favicon.ico',
 
   // The name of your website. Present alongside your icon.
-  title: "次元图书馆",
+  title: "次元图书馆镜像",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/public',
+  baseDirectory: '',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
